@@ -14,6 +14,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38239#Die-Sch-n-Magelonaeine-fast-lustige-Historie-von-dem-Ritter-mit-den-silbern-Schl-sseln-und-vo_
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2011-12-06'
 gutenberg_type: Text
